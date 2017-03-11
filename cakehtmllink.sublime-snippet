@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+echo \$this->Html->link(__("${1:Add}") , array(${2:value}));
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cakehtmllink</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
